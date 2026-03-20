@@ -19,7 +19,7 @@ const interests = [
 
 export function About() {
   return (
-    <div className="min-h-screen pt-20 sm:pt-24 pb-24 sm:pb-16 px-4 sm:px-6">
+    <div className="min-h-screen pt-20 sm:pt-24 pb-12 sm:pb-16 px-4 sm:px-6">
       <div className="max-w-4xl mx-auto">
         {/* Header */}
         <motion.div

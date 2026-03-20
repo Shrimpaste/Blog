@@ -54,7 +54,7 @@ export function PostDetail() {
     <>
       <ReadingProgress />
 
-      <div ref={contentRef} className="min-h-screen pt-20 sm:pt-24 pb-24 sm:pb-16">
+      <div ref={contentRef} className="min-h-screen pt-20 sm:pt-24 pb-12 sm:pb-16">
         <article className="max-w-3xl mx-auto px-4 sm:px-6">
           {/* Back Link */}
           <motion.div
